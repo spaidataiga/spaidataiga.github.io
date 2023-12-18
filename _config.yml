@@ -47,7 +47,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "savema (at) di.ku.dk"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   github: spaidataiga
   # twitter: daattali
@@ -78,7 +78,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -133,8 +133,8 @@ link-col: "#546a7b"
 hover-col: "#546a7b"
 footer-col: "#3f220f"
 footer-text-col: "#e4572e"
-footer-link-col: "#fdf5e6"
-footer-hover-col: "#e4572e"
+footer-link-col: "#e4572e"
+footer-hover-col: "#546a7b"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
