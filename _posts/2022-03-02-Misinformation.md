@@ -13,5 +13,5 @@ We study how citizens engage with misinformation on Twitter in Denmark during th
 pandemic. We find that misinformation regarding facemasks is not corrected through counterarguments or fact-checking. Instead, many tweets rejecting misinformation use humor to mock
 misinformation spreaders, whom they pejoratively label wearers of “tinfoil hats.” Tweets
 rejecting misinformation project a superior social position and leave the concerns of
-misinformation spreaders unaddressed. Our [study](https://misinforeview.hks.harvard.edu/wp-content/uploads/2022/03/johansen_tinfoil_hats_covid_19_twitter_20220302.pdf) highlights the role of status in people’s
+misinformation spreaders unaddressed. Our [study](https://misinforeview.hks.harvard.edu/article/ridiculing-the-tinfoil-hats-citizen-responses-to-covid-19-misinformation-in-the-danish-facemask-debate-on-twitter/) highlights the role of status in people’s
 engagement with online misinformation.
