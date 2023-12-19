@@ -76,7 +76,7 @@ hr.small {
   margin: 1rem auto;
   color: site.navbar-col; 
   border-width: 0.25rem;
-  border-color: inherit;
+  border-color: site.navbar-col;
   border-radius: 0.1875rem;
 }
 
@@ -725,7 +725,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   padding: 0.3125rem 0.625rem;
   font-size: 0.6875rem;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lora', 'Times New Roman', serif; /* 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
   right: 0;
   bottom: 0;
   display: none;
