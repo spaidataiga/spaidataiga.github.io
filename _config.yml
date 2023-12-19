@@ -22,8 +22,9 @@ author: Sara Vera Marjanović
 navbar-links:
   About Me: "index"
   Publications: "publications"
+  Other Media: "other"
   CV: "Marjanovic_Sara_CV_PUBLIC.pdf"
-  
+
 ################
 # --- Logo --- #
 ################
@@ -59,7 +60,7 @@ social-network-links:
 #  reddit: yourname
   linkedin: sara-vera-marjanovic
   ORCID: 0000-0002-7378-7698
-  google-scholar: "https://scholar.google.com/citations?user=f026qd8AAAAJ&hl=en"
+  google-scholar: "f026qd8AAAAJ"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
