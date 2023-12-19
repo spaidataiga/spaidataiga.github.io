@@ -56,6 +56,8 @@ social-network-links:
 #  medium: yourname
 #  reddit: yourname
   linkedin: sara-vera-marjanovic
+  ORCID: 0000-0002-7378-7698
+  google-scholar: "https://scholar.google.com/citations?user=f026qd8AAAAJ&hl=en"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -69,8 +71,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-  ORCID: 0000-0002-7378-7698
-#  google-scholar: "https://scholar.google.com/citations?user=f026qd8AAAAJ&hl=en"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
