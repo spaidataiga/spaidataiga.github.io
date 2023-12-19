@@ -474,7 +474,7 @@ footer .footer-custom-content {
 
 .post-preview a {
   text-decoration: none;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lora', 'Times New Roman', serif;
   color: {{ site.text-col | default: "#404040" }};
 }
 
@@ -699,7 +699,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-size: 1.6875rem;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lora', 'Times New Roman', serif;
   font-weight: 300;
   margin: 0.625rem 0 0;
 }
