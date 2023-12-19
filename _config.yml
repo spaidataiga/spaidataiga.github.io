@@ -69,8 +69,8 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+ ORCID: 0000-0002-7378-7698
+ google-scholar: "https://scholar.google.com/citations?user=f026qd8AAAAJ&hl=en"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -131,7 +131,7 @@ page-col: "#3f220f"
 text-col: "#fdf5e6"
 link-col: "#546a7b"
 hover-col: "#546a7b"
-footer-col: 
+footer-col: "#3f220f"
 footer-text-col: "#e4572e"
 footer-link-col: "#e4572e"
 footer-hover-col: "#546a7b"
@@ -144,7 +144,7 @@ footer-hover-col: "#546a7b"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
