@@ -706,6 +706,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-weight: 400;
 }
 .intro-header.big-img .page-heading hr {
+  color: site.navbar-col;
   box-shadow: 1px 1px 3px #000;
   -webkit-box-shadow: 1px 1px 3px #000;
   -moz-box-shadow: 1px 1px 3px #000;
