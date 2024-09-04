@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Media
+title: News
 subtitle: Recent attention on work that I have produced
 ---
+## 2024
+* I've been invited to present at the *Implicit Biases in Humans and Machines* Workshop at DTU.
+* I attended ACL 2024 in Bangkok, Thailand to present my paper "Investigating the Impact of Model Instability on Explanations and Uncertainty."
+* I was a student volunteer at LREC-COLING 2024 in Torino, Italy
 
 ## 2023
-* An article was written in Videnskab about some interesting theses presented at Specialefesten. Among many others, mine was listed. You can read about it [here](https://videnskab.dk/kultur-samfund/en-daarlig-frysepizza-i-norge-fik-malthe-til-at-undre-sig-to-aar-og-70-pizzaer-senere-fejres-hans-ide-paa-festival-om-laererige-specialer/).
+* An article was written in Videnskab about some interesting theses presented at Specialefesten. Among many others, mine was listed! You can read about it [here](https://videnskab.dk/kultur-samfund/en-daarlig-frysepizza-i-norge-fik-malthe-til-at-undre-sig-to-aar-og-70-pizzaer-senere-fejres-hans-ide-paa-festival-om-laererige-specialer/).
 * I was invited to present my thesis at the Specialefesten in Copenhagen, Denmark. You can watch my presentation [here](https://www.specialefestivalen.dk/specialer/a-review-of-gender-biases-in-reddit-politics).
 
 ## 2022
