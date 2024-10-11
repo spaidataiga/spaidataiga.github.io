@@ -4,6 +4,7 @@ title: News
 subtitle: Recent attention on work that I have produced
 ---
 ## 2024
+* My paper "DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models" has been accepted to EMNLP Findings 2024 in Miami, USA.
 * I've been invited to present at the *Implicit Biases in Humans and Machines* Workshop at DTU.
 * I attended ACL 2024 in Bangkok, Thailand to present my paper "Investigating the Impact of Model Instability on Explanations and Uncertainty."
 * I was a student volunteer at LREC-COLING 2024 in Torino, Italy
