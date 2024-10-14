@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models
+title: DYNAMICQA Tracing Internal Knowledge Conflicts in Language Models
 subtitle: SV Marjanović, H Yu, P Atanasova, M Maistro, C Lioma, I Augenstein
 # cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
