@@ -1,10 +1,14 @@
 ---
 layout: page
 title: News
-subtitle: Recent attention on work that I have produced
+subtitle: Recent attention on work that I have produced and other life updates
 ---
+## 2025
+* I've started my internship at MILA in Montreal, Canada under the supervision of Dr. Siva Reddy and Dr. Karolina Stańczak!
+
 ## 2024
-* My paper "DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models" has been accepted to EMNLP Findings 2024 in Miami, USA.
+* ADD wrote an article about my and my collague Theresia Veronika Rampisela's research. You can read it (in English) [here](https://algorithms.dk/2024/11/18/can-you-trust-algorithms-to-be-fair-new-research-says-it-depends/)
+* I attended EMNLP 2024 in Miami, Florida to present my paper "DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models"
 * I've been invited to present at the *Implicit Biases in Humans and Machines* Workshop at DTU.
 * I attended ACL 2024 in Bangkok, Thailand to present my paper "Investigating the Impact of Model Instability on Explanations and Uncertainty."
 * I was a student volunteer at LREC-COLING 2024 in Torino, Italy
