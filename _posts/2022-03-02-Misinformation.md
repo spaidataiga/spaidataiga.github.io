@@ -6,7 +6,7 @@ subtitle: N Johansen, SV Marjanović, CV Kjaer, RB Baglini, R Adler-Nissen
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
 tags: [misinformation, social data science, sodas]
-# author: Sharon Smith and Barry Simpson
+author: HKS Misinformation Review
 ---
 
 We study how citizens engage with misinformation on Twitter in Denmark during the COVID-19

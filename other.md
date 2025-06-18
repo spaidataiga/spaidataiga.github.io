@@ -4,6 +4,7 @@ title: News
 subtitle: Recent attention on work that I have produced and other life updates
 ---
 ## 2025
+* I attended the "LLMs, Cognitive Science, Linguistics, and Neuroscience" and "Future of Transformers" workshops held by the Simons Institute for the Theory of Computing at UC Berkeley, where Siva Reddy presented [our work on Thoughtology](https://www.youtube.com/watch?v=IeCS6hsnOXs).
 * I've started my internship at MILA in Montreal, Canada under the supervision of Dr. Siva Reddy and Dr. Karolina Stańczak!
 
 ## 2024
