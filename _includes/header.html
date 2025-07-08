@@ -35,7 +35,7 @@
           
           {% if include.type == "post" %} 
             {% if page.author %}
-              In <strong><a href="{{ post.out_url | default: '#' }}">{{ post.author | strip_html }}</a></strong><br>
+              In <strong>{{ post.author | strip_html }}</strong><br>
             {% endif%}
             <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
