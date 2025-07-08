@@ -23,7 +23,7 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="{{ include.type }}-heading">
-          <h1>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h1>
+          <h1>{% if page.title %}<a href="{{ post.out_url | default: '#' }}">{{ page.title | strip_html }}</a>{% else %}<br/>{% endif %}</h1>
           {% if page.subtitle %}
             {% if include.type == "page" %}
               <hr class="small">
@@ -35,7 +35,7 @@
           
           {% if include.type == "post" %} 
             {% if page.author %}
-              In <strong><a href="{{ post.author_url | default: '#' }}">{{ post.author | strip_html }}</a></strong><br>
+              In <strong><a href="{{ post.out_url | default: '#' }}">{{ post.author | strip_html }}</a></strong><br>
             {% endif%}
             <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
