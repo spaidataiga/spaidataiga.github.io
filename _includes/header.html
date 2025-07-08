@@ -17,7 +17,8 @@
 {% endif %}
 
 <header class="header-section {% if page.cover-img %}has-img{% endif %}">
-<div class="intro-header {% if page.cover-img %} big-img {% endif %}" onclick="location.href='{{ post.out_url | default: '#' }}';" style="cursor:pointer;">
+<a href=post.out_url class="intro-header {% if page.cover-img %} big-img {% endif %}">
+<!-- <div class="intro-header {% if page.cover-img %} big-img {% endif %}"> -->
   {% if page.cover-img or page.title %}
   <div class="container-md">
     <div class="row">
@@ -54,7 +55,8 @@
   </div>
   {% endif %}
   {% if page.cover-img %}<span class='img-desc'></span>{% endif %}
-</div>
+</a>
+<!-- </div> -->
 
 {% if page.header-extra %}
   {% for file in page.header-extra %}
