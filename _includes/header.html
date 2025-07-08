@@ -17,8 +17,8 @@
 {% endif %}
 
 <header class="header-section {% if page.cover-img %}has-img{% endif %}">
-<a href=page.out_url class="intro-header {% if page.cover-img %} big-img {% endif %}" style="display: block; padding: 20px;"></a>
-<!-- <div class="intro-header {% if page.cover-img %} big-img {% endif %}"> -->
+<!-- <a href=page.out_url class="intro-header {% if page.cover-img %} big-img {% endif %}" style="display: block; padding: 20px;"></a> -->
+<div class="intro-header {% if page.cover-img %} big-img {% endif %}">
   {% if page.cover-img or page.title %}
   <div class="container-md">
     <div class="row">
@@ -55,8 +55,7 @@
   </div>
   {% endif %}
   {% if page.cover-img %}<span class='img-desc'></span>{% endif %}
-</a>
-<!-- </div> -->
+</div>
 
 {% if page.header-extra %}
   {% for file in page.header-extra %}
