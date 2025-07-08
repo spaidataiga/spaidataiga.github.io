@@ -7,6 +7,7 @@ subtitle: N Johansen, SV Marjanović, CV Kjaer, RB Baglini, R Adler-Nissen
 # share-img: /assets/img/path.jpg
 tags: [misinformation, social data science, sodas]
 author: HKS Misinformation Review
+url: https://misinforeview.hks.harvard.edu/article/ridiculing-the-tinfoil-hats-citizen-responses-to-covid-19-misinformation-in-the-danish-facemask-debate-on-twitter/
 ---
 
 We study how citizens engage with misinformation on Twitter in Denmark during the COVID-19

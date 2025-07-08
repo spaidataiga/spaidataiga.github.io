@@ -47,7 +47,7 @@ layout: page
       </a>
 
       {% if post.author %}
-        <span>In <strong>{{ post.author | strip_html }}</strong></span>
+        <span>In <strong><a href="{{ post.author_url | default: '#' }}">{{ post.author | strip_html }}</a></strong></span>
       {% endif %}
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
