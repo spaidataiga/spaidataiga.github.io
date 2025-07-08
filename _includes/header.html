@@ -17,7 +17,7 @@
 {% endif %}
 
 <header class="header-section {% if page.cover-img %}has-img{% endif %}">
-<div class="intro-header {% if page.cover-img %} big-img {% endif %}">
+<div class="intro-header {% if page.cover-img %} big-img {% endif %}" onclick="location.href='{{ post.out_url | default: '#' }}';" style="cursor:pointer;">
   {% if page.cover-img or page.title %}
   <div class="container-md">
     <div class="row">
@@ -35,7 +35,7 @@
           
           {% if include.type == "post" %} 
             {% if page.author %}
-              In <strong>{{ post.author | strip_html }}</strong><br>
+              In <strong>{{ page.author | strip_html }}</strong><br>
             {% endif%}
             <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
