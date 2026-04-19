@@ -3,6 +3,10 @@ layout: page
 title: News
 subtitle: Recent attention on work that I have produced and other life updates
 ---
+## 2026
+* I was invited to give a talk for the (YerevaNN)[https://www.yerevann.com/] reading group at Yandex Hall about my work on Thoughtology. The talk is available on Youtube [here](https://www.youtube.com/watch?v=QAycFmLZhww)!
+* I've started at internship at NVIDIA, as part of the Science Reasoning team with Evelina Bakhturina!
+
 ## 2025
 * I attended the "LLMs, Cognitive Science, Linguistics, and Neuroscience" and "Future of Transformers" workshops held by the Simons Institute for the Theory of Computing at UC Berkeley, where Siva Reddy presented [our work on Thoughtology](https://www.youtube.com/watch?v=IeCS6hsnOXs).
 * I've started my internship at MILA in Montreal, Canada under the supervision of Dr. Siva Reddy and Dr. Karolina Stańczak!
